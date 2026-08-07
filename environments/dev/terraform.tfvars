@@ -4,6 +4,11 @@ rgs = {
         location = "Central india"
 
     }
+    rg2 = {
+        name = "rg-space2"
+        location = "Central india"
+
+    }
 }
 
 snets = {
